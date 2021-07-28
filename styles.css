@@ -332,6 +332,31 @@ h4 {
     width: 40%;
     height: auto;
 }
+
+.tictactoe {
+    background-image: linear-gradient(to top, #ff0844 0%, #ffb199
+    100%);
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -moz-text-fill-color: transparent;
+    font-size: 3em;
+    text-align: center;
+    display: block;
+    padding: 100px;
+    text-decoration: underline #f77062;
+}
+
+.img-tictactoe {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    height: auto;
+}
+    
+   
+    
     
    
     

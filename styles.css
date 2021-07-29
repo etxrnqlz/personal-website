@@ -196,8 +196,10 @@ h2 {
     -moz-text-fill-color: transparent;
     font-size: 2em;
     text-align: center;
-    padding: 25px;
-    width: 40%
+    padding: 10px;
+    width: 50%;
+    margin: auto;
+    
 }
 
 h3 {
